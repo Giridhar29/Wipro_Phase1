@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\bin\Debug\Abstractclass.exe.config
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\bin\Debug\Abstractclass.exe
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\bin\Debug\Abstractclass.pdb
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.Form1.resources
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.Properties.Resources.resources
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.csproj.GenerateResource.cache
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.exe
+D:\GreatLearning4\Day_4\Day4Projectss\Abstractclass\obj\Debug\Abstractclass.pdb

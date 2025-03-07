@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\bin\Debug\staticfunctiondemo.exe.config
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\bin\Debug\staticfunctiondemo.exe
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\bin\Debug\staticfunctiondemo.pdb
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\obj\Debug\staticfunctiondemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\obj\Debug\staticfunctiondemo.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\obj\Debug\staticfunctiondemo.exe
+D:\GreatLearning4\Day_4\Day4Projectss\staticfunctiondemo\obj\Debug\staticfunctiondemo.pdb
