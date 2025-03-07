@@ -1,0 +1,2 @@
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day2\Day2Projects\loopsdemo\obj\Debug\loopsdemo.csproj.CoreCompileInputs.cache

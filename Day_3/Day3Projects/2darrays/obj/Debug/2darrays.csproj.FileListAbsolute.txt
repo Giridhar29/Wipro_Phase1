@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\bin\Debug\2darrays.exe.config
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\bin\Debug\2darrays.exe
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\bin\Debug\2darrays.pdb
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\obj\Debug\2darrays.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\obj\Debug\2darrays.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\obj\Debug\2darrays.exe
+D:\GreatLearning4\Day_3\Day3Projects\2darrays\obj\Debug\2darrays.pdb
