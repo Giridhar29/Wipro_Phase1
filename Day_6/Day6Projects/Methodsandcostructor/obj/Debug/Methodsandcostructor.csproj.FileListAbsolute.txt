@@ -1,0 +1,10 @@
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\bin\Debug\Methodsandcostructor.exe.config
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\bin\Debug\Methodsandcostructor.exe
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\bin\Debug\Methodsandcostructor.pdb
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.Form1.resources
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.Properties.Resources.resources
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.csproj.GenerateResource.cache
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.exe
+D:\GreatLearning4\Day_6\Day6Projects\Methodsandcostructor\obj\Debug\Methodsandcostructor.pdb

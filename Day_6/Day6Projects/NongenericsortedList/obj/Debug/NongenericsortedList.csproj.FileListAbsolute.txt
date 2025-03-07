@@ -1,0 +1,7 @@
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\bin\Debug\NongenericsortedList.exe.config
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\bin\Debug\NongenericsortedList.exe
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\bin\Debug\NongenericsortedList.pdb
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\obj\Debug\NongenericsortedList.csproj.AssemblyReference.cache
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\obj\Debug\NongenericsortedList.csproj.CoreCompileInputs.cache
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\obj\Debug\NongenericsortedList.exe
+D:\GreatLearning4\Day_6\Day6Projects\NongenericsortedList\obj\Debug\NongenericsortedList.pdb
